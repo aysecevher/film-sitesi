@@ -1,2 +1,2 @@
-# kisisel web
+# kisisel portfolyo
  htmll/css, bootstrap
